@@ -1,7 +1,7 @@
 ## Instruções para execução
 
 - Ter o MySQL instalado
-- Utilize algum manager ou o terminal, e copie o código abaixo para criar a tabela:
+- Utilize algum manager ou o terminal, e copie o seguinte código para criar a tabela:
     CREATE DATABASE db_products;
     USE db_products;
     CREATE TABLE info (
