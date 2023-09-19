@@ -11,8 +11,8 @@
 
 - Abrir o projeto no Visual Studio
 
-- No diretório Catalogo.cs
-  Edite as informações da variável data_source se necessário
+- No diretório Catalogo.cs, edite as informações da variável data_source se necessário
 
 - Selecione crudProject.csproj como item de inicialização
+
 - Inicialize o programa
