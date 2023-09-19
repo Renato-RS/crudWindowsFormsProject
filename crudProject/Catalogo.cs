@@ -29,8 +29,8 @@ namespace crudProject
             ListProducts.Columns.Add("Nome", 80, HorizontalAlignment.Left);
             ListProducts.Columns.Add("Preço", 80, HorizontalAlignment.Left);
 
+            //Carregando os dados da tabela
             load_info();
-
 
         }
 
